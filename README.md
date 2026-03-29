@@ -8,7 +8,7 @@ The web app allows users to **ask questions by voice or text** and receive spoke
 Live link-: https://one00x-voicebot.onrender.com/
 
 
-## Features ✨
+## Features ✨   
 
 - **Voice Input:** Users can speak their questions using the browser microphone. 🎤
 - **Text Input:** Users can type questions manually. ⌨️
