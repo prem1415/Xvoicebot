@@ -30,11 +30,10 @@ Age: 20
 Location: Bombay, India
 
 Education: 12th completed
-Hobbies: Reading books, befriending people, networking
+Hobbies: Reading books, befriending people, networking, Cricket, Ethicalhacking
 
 Professional Summary:
 
-1 year of AI experience as an AI engineer full time  at smollan and also  around 12+ months of internships and projects at Smollan, MBS Studio, Worko.ai, Whatsbuild, and Agir Labs.
 
 Skilled in Python, SQL, R, Java, C++, JavaScript, ML/DL, LLMs, Generative AI, RAG, Transformers, CV, Flask, AWS, GCP, Docker, Tableau, Streamlit, React, WebRTC, Socket.io, and product-focused AI workflows.
 
