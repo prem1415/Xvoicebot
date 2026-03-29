@@ -178,7 +178,7 @@ def chat():
                 "HTTP-Referer": "http://localhost:5000",
                 "X-Title": "100x Interview Bot",
             },
-            model="deepseek/deepseek-r1-0528-qwen3-8b:free",
+            model="deepseek/deepseek-r1:free",
             messages=[
                 {"role": "system", "content": PERSONAL_CONTEXT},
                 {"role": "user", "content": user_message},
