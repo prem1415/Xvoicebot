@@ -69,7 +69,7 @@ Live link-: https://one00x-voicebot.onrender.com/
 
 The project is deployed on Render:
 
-**URL:** https://100x-voicebot.onrender.com
+**URL:** https://xvoicebot.onrender.com
 
 **Environment Variables:** OpenRouter API key is securely stored on the server. 🔒
 
