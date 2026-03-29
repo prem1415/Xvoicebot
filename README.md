@@ -6,7 +6,7 @@ live link-: https://xvoicebot.onrender.com
 
 This is a **voice-enabled chatbot** designed for the Stage-1 assessment of the **AI Agent Team** at **100x**. The bot responds as **Prem**, a 22-year-old AI/software engineer, in **first-person** with a professional, friendly, and confident tone. 🌟
 
-The web app allows users to **ask questions by voice or text** and receive spoken and written responses that reflect Rohan’s persona. 💬
+The web app allows users to **ask questions by voice or text** and receive spoken and written responses that reflect prem’s persona. 💬
 
 ---
 Live link-: https://one00x-voicebot.onrender.com/
