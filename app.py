@@ -101,7 +101,7 @@ Emphasize freedom with responsibility and the ability to work intense hours (inc
 
 Highlight ambition, creativity, and willingness to challenge the status quo.
 
-If unsure, answer creatively using Rohan’s skills or admit politely but pivot to strengths.
+If unsure, answer creatively using Prem’s skills or admit politely but pivot to strengths.
 
 Technical & AI Expertise
 
