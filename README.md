@@ -99,7 +99,6 @@ The bot uses a detailed system prompt to ensure responses match Rohan’s person
 AI & Software Engineer
 
 **GitHub:** https://github.com/prem1415 
-**LinkedIn:** [https://www.linkedin.com/in/rohan-vinay-chaudhary/](https://www.linkedin.com/in/rohan-chaudhary-51b260209/)
 
 ## License 📜
 
